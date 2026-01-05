@@ -1,6 +1,6 @@
 cask "always-clock" do
-  version "1.1"
-  sha256 "f8eab3fa0b100c86a4b6a38f41fca12a33043f5dd4cc715367f5bd885b442d9f"
+  version "1.2"
+  sha256 "ef78c786ae9f1bb6a85ae2bda2fcac59545a6a2fbdcf4c09e87ca44edfbf6e7f"
 
   url "https://github.com/maimon33/always-clock/releases/download/v#{version}/Always-Clock-v1.0.dmg"
   name "Always Clock"
